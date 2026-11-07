@@ -34,6 +34,7 @@ jobs:
 
       # Install plugins
       - run: pip install sphinx
+      - run: pip install --upgrade myst-parser
       - run: pip install sphinxawesome-theme
 
       # Run Build
