@@ -4,7 +4,7 @@ on:
   # This trigger on branches being pushed starts the HERMES pipeline.
   push:
     branches:
-      - main
+      - ci-start
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
