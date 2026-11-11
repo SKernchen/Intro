@@ -60,6 +60,14 @@ Android App, Tower Defense Spiel
 - kollaborativ: Nein
 - Kontext: Privat
 
+#### [Animation](https://github.com/Kernimeckernkern/Animation)
+Animation und Grafiken nur mit plain HTML und CSS
+    
+- Sprache: HTML, CSS
+- kollaborativ: Nein
+- website: [https://kernimeckernkern.github.io/Animation/](https://kernimeckernkern.github.io/Animation/)
+- Kontext: Privat
+
 #### [Birthday](https://github.com/Kernimeckernkern/Birthday)
 Geburtstagseinladungen
     
